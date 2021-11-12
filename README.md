@@ -1,4 +1,3 @@
 # Homebrew Channel Archive
-Archive of Homebrew Channel related things, like WADs, custom colored forwarders, different weird modifications and installers.
-
-Adding more information here later.
+This branch contains old community-made HBC forwarders that have been updated with a OHBC DOL (aka forwards to HBC 1.1.3/1.1.4 aka open source)
+You need to have OHBC HBC installed to use these.
