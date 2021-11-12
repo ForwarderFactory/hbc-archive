@@ -1,4 +1,3 @@
 # Homebrew Channel Archive
-Archive of Homebrew Channel related things, like WADs, custom colored forwarders, different weird modifications and installers.
-
-Adding more information here later.
+This branch contains various ways to install different versions of the Homebrew Channel on your Wii. May not work depending on your version, console, and luck.
+These have not been modified in any way.
