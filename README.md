@@ -1,4 +1,2 @@
 # Homebrew Channel Archive
-Archive of Homebrew Channel related things, like WADs, custom colored forwarders, different weird modifications and installers.
-
-Adding more information here later.
+This branch contains different DOLs that boot title IDs. These might be useful if you're trying to make a Homebrew Channel forwarder.
