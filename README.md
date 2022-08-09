@@ -93,7 +93,7 @@ Branch hbc-ohbc-forwarders contains:
   - YellowHBC-ForwardToOHBC.wad
   - ZeldabrewHBC-ForwardToOHBC.wad
 
-Branch hbc-wads contains vanilla HBC WADs for different versions.
+Branch hbc-wads contains:
   - README.md for the branch
   - hbc0.0.1-patched-old.wad
   - hbc0.0.1-patched.wad
@@ -138,6 +138,8 @@ Branch hbc-wads contains vanilla HBC WADs for different versions.
   - hbcb9-patched.wad
   - hbcb9-unpatched.wad
 
+Branch hbc-source contains:
+  - hbc-src.tar.gz
 
 # Thank you:
 - nezbednik for finding HackMii Installer 0.4.
