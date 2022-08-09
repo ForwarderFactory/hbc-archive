@@ -140,6 +140,7 @@ Branch hbc-wads contains:
 
 Branch hbc-source contains:
   - hbc-src.tar.gz
+  - bootmii-src.tar.gz
 
 # Thank you:
 - nezbednik for finding HackMii Installer 0.4.
