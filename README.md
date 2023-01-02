@@ -51,6 +51,7 @@ Branch hbc-forwarders contains:
 Branch hbc-installers contains:
   - README.md for the branch
   - dvdx34.zip
+  - bootmii_check.elf
   - bootmii_sd_files.zip
   - hackmiiinstaller1.0.zip
   - hackmiiinstallerbeta1.zip
@@ -78,7 +79,7 @@ Branch hbc-installers contains:
   - thehomebrewchannelbeta8isoUSA.rar
   - thehomebrewchannelbeta9.tar.gz
 
-Branch hbc-ohbc-forwarders contains: 
+Branch hbc-ohbc-forwarders contains:
   - README.md for the branch
   - BackupHBC-ForwardToOHBC.wad
   - BlueHBC-ForwardToOHBC.wad
