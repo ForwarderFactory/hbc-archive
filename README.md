@@ -44,7 +44,7 @@ The repository contains:
     - Yellow HBC - YHBC.wad
     - YellowHBC-YHBC.wad
     - Zeldabrew Channel - 1.0.3.wad
-  - installers
+  - installers/
     - dvdx34.zip
     - bootmii_check.elf
     - bootmii_sd_files.zip
@@ -91,6 +91,7 @@ The repository contains:
     - YellowHBC-ForwardToOHBC.wad
     - ZeldabrewHBC-ForwardToOHBC.wad
   - wads/
+    - README.md
     - hbc0.0.1-patched-old.wad
     - hbc0.0.1-patched.wad
     - hbc0.0.1-unpatched.wad
