@@ -5,7 +5,7 @@ colored forwarders, different weird modifications and installers.
 
 The repository contains:
 
-- Root
+- /
   - README.md
   - dols/
     - fw-OHBC.dol
@@ -138,11 +138,8 @@ The repository contains:
     - hbc-src.tar.gz
     - bootmii-src.tar.gz
 
-# Thanks
+# Credits
 
-I want to give a huge thanks to:
-
-- nezbednik for finding HackMii Installer 0.4.
-- speedie for finding the rest of the channels.
-- Team Twiizers (fail0verflow) for actually writing the software.
-- Vim for saving me *so* much time when writing this readme.
+- Jacob Nilsson - for finding, editing and dumping most of the channels.
+- nezbednik - for finding HackMii Installer 0.4, allowing it and its components to be dumped and preserved.
+- fail0verflow - go figure
